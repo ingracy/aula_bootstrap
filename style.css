@@ -1,0 +1,15 @@
+body{
+    font: 20px Arial, sans-serif; 
+    background-color: #d6fdf1;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top:  10px;
+}
+.navbar{
+    background-color: cadetblue;
+}
+.bg-footer{
+    background-color: black;
+    color:white ;
+}
